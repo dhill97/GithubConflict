@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello from the master craaaaaanch!! a dell.
+=======
+This is the code from the other branch.
+>>>>>>> 579209b6fdca1c8c21cb64ffe045fc6efe177f4b
